@@ -60,3 +60,11 @@ During generation, <b>Holistic-Part Fusion (HPF)</b> continuously injects part t
 <br>
 
 ## BibTeX
+```
+@article{heo2026party,
+  title={ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis},
+  author={Heo, KunHo and Kim, SuYeon and Gwon, Yonghyun and Kim, Youngbin and Cho, MyeongAh},
+  journal={arXiv preprint arXiv:2603.09611},
+  year={2026}
+}
+```
