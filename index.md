@@ -6,7 +6,7 @@ title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
 affiliations:
     Kyung Hee University
 arxiv: https://arxiv.org/pdf/2603.09611
-paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Heo_ParTY_Part-Guidance_for_Expressive_Text-to-Motion_Synthesis_CVPR_2026_paper.pdf
+paper: https://openaccess.thecvf.com/content/CVPR2026/html/Heo_ParTY_Part-Guidance_for_Expressive_Text-to-Motion_Synthesis_CVPR_2026_paper.html
 code: https://github.com/VisualScienceLab-KHU/ParTY
 ---
 
