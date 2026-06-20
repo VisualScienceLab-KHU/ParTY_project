@@ -6,7 +6,7 @@ title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
 affiliations:
     Kyung Hee University
 arxiv: https://arxiv.org/pdf/2603.09611
-paper: https://arxiv.org/pdf/2603.09611 # change to CVF
+paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Heo_ParTY_Part-Guidance_for_Expressive_Text-to-Motion_Synthesis_CVPR_2026_paper.pdf
 code: https://github.com/VisualScienceLab-KHU/ParTY
 ---
 
@@ -61,10 +61,12 @@ During generation, <b>Holistic-Part Fusion (HPF)</b> continuously injects part t
 
 ## BibTeX
 ```
-@article{heo2026party,
-  title={ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis},
-  author={Heo, KunHo and Kim, SuYeon and Gwon, Yonghyun and Kim, Youngbin and Cho, MyeongAh},
-  journal={arXiv preprint arXiv:2603.09611},
-  year={2026}
+@InProceedings{Heo_2026_CVPR,
+    author    = {Heo, KunHo and Kim, SuYeon and Gwon, Yonghyun and Kim, Youngbin and Cho, MyeongAh},
+    title     = {ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {23549-23558}
 }
 ```
